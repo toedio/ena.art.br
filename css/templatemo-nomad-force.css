@@ -339,7 +339,7 @@ strong {
 }
 
 .heroText {
-  position: absolute;
+  position: relative;
   z-index: 9;
   top: 50%;
   left: 50%;
